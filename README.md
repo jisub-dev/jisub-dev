@@ -39,6 +39,10 @@
            /> </div> 
     </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjiseob716)](https://solved.ac/kimjiseob716/)
+<img src="http://mazandi.herokuapp.com/api?handle=kimjiseob716&theme=warm"/>
+<!--
+
 ## Hi there 👋
 
 
@@ -58,12 +62,11 @@
 	<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjiseob716)](https://solved.ac/kimjiseob716/)
+
 
 ![](https://velog.velcdn.com/images//post/6f35e4bd-b434-4de2-bdee-9aedded65d01/image.png)
 
-<img src="http://mazandi.herokuapp.com/api?handle=kimjiseob716&theme=warm"/>
-<!--
+
 **jisub-dev/jisub-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
