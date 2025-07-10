@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=JISUB's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2400F7&width=435&lines=A+Growing+Devleoper)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
