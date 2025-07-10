@@ -13,8 +13,7 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 	<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/kimjiseob716)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjiseob716)](https://solved.ac/kimjiseob716/)
 
 
 <!--
