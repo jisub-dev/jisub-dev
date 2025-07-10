@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2400F7&width=435&lines=A+Growing+Devleoper)](https://git.io/typing-svg)
 <!--
 **jisub-dev/jisub-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
