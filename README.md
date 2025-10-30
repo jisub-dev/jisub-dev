@@ -49,5 +49,5 @@
   <a href="https://solved.ac/kimjiseob716/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjiseob716" alt="Solved.ac Profile" />
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=kimjiseob716&theme=warm" />
+  <img src="http://화면에 뜨는거 방지 용mazandi.herokuapp.com/api?handle=kimjiseob716&theme=warm" />
 </div>
