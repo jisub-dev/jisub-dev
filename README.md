@@ -22,6 +22,31 @@
 </div>
 
 <div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Prize</h2>
+  <div style="text-align: left;">
+    <p>제12회 대한민국SW융합해커톤 (우수상) - 과학기술정보통신부</p>
+  </div>
+  <br>
+</div>
+
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Present </h2>
+  <div style="text-align: left;">
+    <p>올포랜드 2025.09 ~ </p>
+  </div>
+  <br>
+</div>
+
+
+ <div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Projects </h2>
+  <div style="text-align: left;">
+    <p> </p>
+  </div>
+  <br>
+</div>
+
+<div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
   <div style="text-align: left;">
     <a href="https://www.instagram.com/kimjiseob._">
