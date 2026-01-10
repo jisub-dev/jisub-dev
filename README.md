@@ -33,6 +33,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Present </h2>
   <div style="text-align: left;">
     <p>올포랜드 2025.09 ~ 2025.12</p>
+    <p>LT메트릭 2026.02 ~ </p>
   </div>
   <br>
 </div>
