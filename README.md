@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Operating Production Systems · Contributing to Spring Framework
+  Operating Production Systems · Open Source Contributor
 </h3>
 
 ---
@@ -11,20 +11,34 @@
 ## 👋 About
 
 Backend engineer operating a **24/7 high-availability public service system**.
-Contributing to **Spring Framework** transaction documentation.
+Contributing to **Spring Framework**, **MyBatis**, and **Reactor** projects.
 
-**Focus areas:** Transaction processing · Caching strategies · Production operations
+**Focus areas:** Transaction processing · Memory management · Reactive programming · Production operations
 
 ---
 
-## 🌟 Open Source
+## 🌟 Open Source Contributions
 
-### [Spring Framework](https://github.com/spring-projects/spring-framework)
+### ✅ Merged
 
-**[PR #36323: Transaction Documentation](https://github.com/spring-projects/spring-framework/pull/36323)** - Under Review
-- Improved transaction management documentation clarity
-- Enhanced PROPAGATION behavior examples
-- [Retrospective](https://github.com/jisub-dev/my-contributions/blob/main/spring-framework/pr-36323-retrospective.md)
+**[MyBatis](https://github.com/mybatis/mybatis-3) · [PR #3636](https://github.com/mybatis/mybatis-3/pull/3636)**
+- Fixed ThreadLocal memory leak in lazy loading proxy implementations
+- Resolved 4-year-old issue affecting thread pool environments
+- Added ErrorContext cleanup in 3 proxy classes
+
+**[Reactor](https://github.com/reactor/reactor-core) · [PR #4207](https://github.com/reactor/reactor-core/pull/4207)** (Co-author)
+- Enhanced subscription patterns documentation
+- Added warnings about fire-and-forget anti-patterns
+- Included in Reactor 3.7.17 milestone
+
+### 🔄 In Review
+
+**[Spring Framework](https://github.com/spring-projects/spring-framework) · [PR #36323](https://github.com/spring-projects/spring-framework/pull/36323)**
+- Enhanced transaction management documentation with programmatic configuration
+- Added Java and Kotlin examples alongside XML
+- Extracted code to separate files following Spring's documentation patterns
+
+[📚 View detailed retrospectives →](https://github.com/jisub-dev/opensource-contributions)
 
 ---
 
