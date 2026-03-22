@@ -89,9 +89,10 @@ Backend development and server-side implementation.
 ## 🚀 Projects
 
 *Projects on transaction processing, caching strategies, and system design - coming soon*
--->
+
 
 ---
+-->
 
 ## 🏆 Achievement
 
@@ -103,10 +104,11 @@ Ministry of Science and ICT (과학기술정보통신부)
 ## 📫 Contact
 
 **Email:** kimjiseob1209@gmail.com
-
+<!--
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kimjiseob._)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@kimjiseob/posts)
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://garnet-catcher-c1f.notion.site/22cf3dfaa156805499e2ddbbdb98e631)
+-->
 
 ---
 
