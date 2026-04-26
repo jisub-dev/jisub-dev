@@ -124,4 +124,4 @@ Ministry of Science and ICT (과학기술정보통신부)
 <!--[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjiseob716)](https://solved.ac/kimjiseob716/)-->
 <img width="355" height="178" alt="image" src="https://github.com/user-attachments/assets/352de7e1-2e1b-4e94-a611-476d55d244b2" />
 
-![Mazandi](http://mazandi.herokuapp.com/api?handle=kimjiseob716&theme=warm)
+<!--![Mazandi](http://mazandi.herokuapp.com/api?handle=kimjiseob716&theme=warm)-->
