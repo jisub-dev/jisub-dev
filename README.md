@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Backend%20Engineer%20Jisub&animation=fadeIn&fontColor=000000&fontSize=60" />
 </div>
 
@@ -7,7 +7,8 @@
 </h3>
 
 ---
-
+-->
+<!--
 ## 👋 About
 
 Backend engineer operating a **24/7 high-availability public service system**.
@@ -16,6 +17,7 @@ Contributing to **Spring Framework**, **MyBatis**, and **Reactor** projects.
 **Focus areas:** Transaction processing · Memory management · Reactive programming · Production operations
 
 ---
+-->
 
 ## 🌟 Open Source Contributions
 
@@ -39,7 +41,7 @@ Contributing to **Spring Framework**, **MyBatis**, and **Reactor** projects.
 - Extracted code to separate files following Spring's documentation patterns
 
 [📚 View detailed retrospectives →](https://github.com/jisub-dev/opensource-contributions)
-
+<!--
 ---
 
 ## 💼 Experience
@@ -84,15 +86,15 @@ Backend development and server-side implementation.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ---
-
+-->
 <!--
 ## 🚀 Projects
 
 *Projects on transaction processing, caching strategies, and system design - coming soon*
 
 
----
 -->
+---
 
 ## 🏆 Achievement
 
@@ -109,14 +111,14 @@ Ministry of Science and ICT (과학기술정보통신부)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@kimjiseob/posts)
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://garnet-catcher-c1f.notion.site/22cf3dfaa156805499e2ddbbdb98e631)
 -->
-
+<!--
 ---
 
 ## 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jisub-dev&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisub-dev&layout=compact&theme=default&hide_border=true)
-
+-->
 ---
 
 ## 🧮 Algorithm
