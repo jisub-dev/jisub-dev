@@ -111,7 +111,7 @@ Ministry of Science and ICT (과학기술정보통신부)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@kimjiseob/posts)
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://garnet-catcher-c1f.notion.site/22cf3dfaa156805499e2ddbbdb98e631)
 -->
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://memorysaver.tistory.com/)
+기술블로그: [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://memorysaver.tistory.com/)
 
 
 <!--
