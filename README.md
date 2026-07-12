@@ -32,14 +32,14 @@ Contributing to **Spring Framework**, **MyBatis**, and **Reactor** projects.
 - Enhanced subscription patterns documentation
 - Added warnings about fire-and-forget anti-patterns
 - Included in Reactor 3.7.17 milestone
-
+<!--
 ### 🔄 In Review
 
 **[Spring Framework](https://github.com/spring-projects/spring-framework) · [PR #36323](https://github.com/spring-projects/spring-framework/pull/36323)**
 - Enhanced transaction management documentation with programmatic configuration
 - Added Java and Kotlin examples alongside XML
 - Extracted code to separate files following Spring's documentation patterns
-
+-->
 [📚 View detailed retrospectives →](https://github.com/jisub-dev/opensource-contributions)
 <!--
 ---
